@@ -7,7 +7,7 @@ const Footer = () => {
       <footer className="footer p-10 bg-neutral text-neutral-content flex items-center justify-between bottom-0">
         <Link to={"/Nova"}>
           <img
-            src="/public/Logo.jpg"
+            src="/Logo.jpg"
             alt=""
             className="rounded-full w-[3rem]"
           />
