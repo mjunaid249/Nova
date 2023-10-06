@@ -45,7 +45,7 @@ const Header = () => {
         </div>
         <Link to={"/Nova"} className="btn btn-ghost normal-case text-xl">
           <img
-            src="/public/Logo.jpg"
+            src="/Logo.jpg"
             alt=""
             className="rounded-full w-[2.3rem]"
           />
